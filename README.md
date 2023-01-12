@@ -3,7 +3,9 @@ Browser Video Player provides a web video player interface that enables you to p
 
 The software is especially helpful on sites that require media to be played from a tab on the same browser window while screen sharing, such as during a Google Meet.
 # How to use #
-Clone this repo (or download as zip and extract) and open "APP.html" with the browser of your preference.
+[Simply go to this link to access the web app](https://sonothamin.github.io/Browser-Video-Player/APP.html). 
+
+Alternatively, you can clone this repo (or download as zip and extract) and open "APP.html" with the browser of your preference.
 ```
 wget "https://raw.githubusercontent.com/sonothamin/Browser-Video-Player/main/APP.html" && xdg-open APP.html
 ```
