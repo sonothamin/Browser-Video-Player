@@ -1,8 +1,7 @@
 # Introduction #
 Browser Video Player provides a web video player interface that enables you to play video files stored on your browser.
 
-The software is especially helpful on sites that require media to be played from a tab on the same browser window while screen sharing, such as during a Google Meet. It offers an alternative to the rudimentary built-in video players of web browsers, which can lack many helpful features.
-
+The software is especially helpful on sites that require media to be played from a tab on the same browser window while screen sharing, such as during a Google Meet.
 # How to use #
 Clone this repo (or download as zip and extract) and open "APP.html" with the browser of your preference.
 ```
